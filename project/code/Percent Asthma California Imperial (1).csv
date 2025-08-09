@@ -1,0 +1,57 @@
+COUNTY,YEARS,STRATA,AGE GROUP,CURRENT PREVALENCE
+California,2015–2016,Total population,All ages,8.7
+Imperial,2015–2016,Total population,All ages,12.1
+California,2015–2016,Child vs. adult,0–17 years,10.1
+Imperial,2015–2016,Child vs. adult,0–17 years,19.1
+California,2015–2016,Child vs. adult,18+ years,8.3
+Imperial,2015–2016,Child vs. adult,18+ years,8.9
+California,2015–2016,Age groups,0–4 years,4.5
+Imperial,2015–2016,Age groups,0–4 years,nan
+California,2015–2016,Age groups,5–17 years,12.3
+Imperial,2015–2016,Age groups,5–17 years,20.5
+California,2015–2016,Age groups,18–64 years,8.1
+Imperial,2015–2016,Age groups,18–64 years,8.7
+California,2015–2016,Age groups,65+ years,9.2
+Imperial,2015–2016,Age groups,65+ years,nan
+California,2017–2018,Total population,All ages,8.8
+Imperial,2017–2018,Total population,All ages,11.4
+California,2017–2018,Child vs. adult,0–17 years,8
+Imperial,2017–2018,Child vs. adult,0–17 years,nan
+California,2017–2018,Child vs. adult,18+ years,9.1
+Imperial,2017–2018,Child vs. adult,18+ years,12.9
+California,2017–2018,Age groups,0–4 years,4.1
+Imperial,2017–2018,Age groups,0–4 years,nan
+California,2017–2018,Age groups,5–17 years,9.5
+Imperial,2017–2018,Age groups,5–17 years,nan
+California,2017–2018,Age groups,18–64 years,9
+Imperial,2017–2018,Age groups,18–64 years,11.1
+California,2017–2018,Age groups,65+ years,9.4
+Imperial,2017–2018,Age groups,65+ years,20.9
+California,2019–2020,Total population,All ages,8.7
+Imperial,2019–2020,Total population,All ages,10.6
+California,2019–2020,Child vs. adult,0–17 years,7.4
+Imperial,2019–2020,Child vs. adult,0–17 years,7.5
+California,2019–2020,Child vs. adult,18+ years,9.1
+Imperial,2019–2020,Child vs. adult,18+ years,11.9
+California,2019–2020,Age groups,0–4 years,3.3
+Imperial,2019–2020,Age groups,0–4 years,nan
+California,2019–2020,Age groups,5–17 years,8.9
+Imperial,2019–2020,Age groups,5–17 years,nan
+California,2019–2020,Age groups,18–64 years,9
+Imperial,2019–2020,Age groups,18–64 years,11.5
+California,2019–2020,Age groups,65+ years,9.2
+Imperial,2019–2020,Age groups,65+ years,13.5
+California,2021-2022,Total population,All ages,8.9
+Imperial,2021-2022,Total population,All ages,11
+California,2021-2022,Child vs. adult,0–17 years,6.8
+Imperial,2021-2022,Child vs. adult,0–17 years,10.1
+California,2021-2022,Child vs. adult,18+ years,9.5
+Imperial,2021-2022,Child vs. adult,18+ years,11.4
+California,2021-2022,Age groups,0–4 years,2.4
+Imperial,2021-2022,Age groups,0–4 years,nan
+California,2021-2022,Age groups,5–17 years,8.2
+Imperial,2021-2022,Age groups,5–17 years,12.3
+California,2021-2022,Age groups,18–64 years,9.6
+Imperial,2021-2022,Age groups,18–64 years,11.3
+California,2021-2022,Age groups,65+ years,9.2
+Imperial,2021-2022,Age groups,65+ years,11.9
